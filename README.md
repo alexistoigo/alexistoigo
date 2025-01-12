@@ -1,0 +1,40 @@
+# Olá, meu nome é Alexis Toigo! 👋
+
+Bem-vindo(a) ao meu perfil do GitHub!
+
+## 🚀 Sobre mim
+Sou desenvolvedor de software apaixonado por tecnologia, com experiência em diversas linguagens e frameworks. Gosto de resolver problemas e criar soluções inovadoras.
+
+## 📂 Projetos Destacados
+Aqui estão alguns dos meus projetos em diversas linguagens:
+- [vrptw-api](https://github.com/alexistoigo/vrptw-api) - API que resolve o problema do VRPTW.
+- [Ecommerce API](https://github.com/alexistoigo/ecommerce) - Algumas api`s para um ecommerce em Java Springboot.
+- [Restaurante](https://github.com/alexistoigo/restaurant) - Aplicativo Mobile de Restaurante para compras no APP.
+- [Gerente] (https://github.com/alexistoigo/gerente) - Aplicativo Mobile para gerenciamento do app Restaurante.
+- [Competitive Programming](https://github.com/alexistoigo/Competitive-Programming) Alguns algoritmos de quando participava de Maratonas de Programação.
+
+Veja mais no meu perfil: [GitHub](https://github.com/alexistoigo)
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexistoigo&show_icons=true&theme=radical)
+
+## 🌐 Principais Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexistoigo&layout=compact&theme=radical)
+
+## 🎯 Conquistas
+![Conquistas no GitHub](https://github-profile-trophy.vercel.app/?username=alexistoigo&theme=radical)
+
+## 🚧 Ferramentas e Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring)
+
+
+
+## 📫 Contato
+- Email: [alexistoigo@gmail.com](mailto:seuemail@dominio.com)
+- LinkedIn: [Aléxis Toigo](https://www.linkedin.com/in/alexistoigo/)
+- X: [@alexistoigo](https://x.com/alexistoigo)
+- Website: [alexis.dev.br](alexis.dev.br)
+- Beecrowd: [alexis__t](https://judge.beecrowd.com/pt/profile/152913)
