@@ -9,9 +9,10 @@ Minhas atuações são principalmente em backend, fullstack, engenharia de dados
 ## 📂 Projetos Destacados
 Aqui estão alguns dos meus projetos em diversas linguagens:
 - [vrptw-api](https://github.com/alexistoigo/vrptw-api) - API que resolve o problema do VRPTW.
+- [vrptw-frontend](https://github.com/alexistoigo/vrptw-api) - Frontend para a API do VRPTW problem.
 - [Ecommerce API](https://github.com/alexistoigo/ecommerce) - Algumas api`s para um ecommerce em Java Springboot.
 - [Restaurante](https://github.com/alexistoigo/restaurant) - Aplicativo Mobile de Restaurante para compras no APP.
-- [Gerente] (https://github.com/alexistoigo/gerente) - Aplicativo Mobile para gerenciamento do app Restaurante.
+- [Gerente](https://github.com/alexistoigo/gerente) - Aplicativo Mobile para gerenciamento do app Restaurante.
 - [Competitive Programming](https://github.com/alexistoigo/Competitive-Programming) Alguns algoritmos de quando participava de Maratonas de Programação.
 
 Veja mais no meu perfil: [GitHub](https://github.com/alexistoigo)
