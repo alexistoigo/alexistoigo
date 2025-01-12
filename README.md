@@ -3,7 +3,8 @@
 Bem-vindo(a) ao meu perfil do GitHub!
 
 ## 🚀 Sobre mim
-Sou desenvolvedor de software apaixonado por tecnologia, com experiência em diversas linguagens e frameworks. Gosto de resolver problemas e criar soluções inovadoras.
+Sou desenvolvedor de software com quatro anos de experiência, possuo graduação em Ciência da Computação e atualmente sou discente do mestrado em Computação Aplicada. 
+Minhas atuações são principalmente em backend, fullstack, engenharia de dados e mobile, também possuo experiência em diversas linguagens e frameworks. Gosto de resolver problemas e criar soluções inovadoras.
 
 ## 📂 Projetos Destacados
 Aqui estão alguns dos meus projetos em diversas linguagens:
@@ -36,5 +37,5 @@ Veja mais no meu perfil: [GitHub](https://github.com/alexistoigo)
 - Email: [alexistoigo@gmail.com](mailto:seuemail@dominio.com)
 - LinkedIn: [Aléxis Toigo](https://www.linkedin.com/in/alexistoigo/)
 - X: [@alexistoigo](https://x.com/alexistoigo)
-- Website: [alexis.dev.br](alexis.dev.br)
+- Website: [alexis.dev.br](https://alexis.dev.br)
 - Beecrowd: [alexis__t](https://judge.beecrowd.com/pt/profile/152913)
