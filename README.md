@@ -1,4 +1,4 @@
-# Olá, meu nome é Alexis Toigo! 👋
+# Olá, meu nome é Aléxis! 👋
 
 Bem-vindo(a) ao meu perfil do GitHub!
 
@@ -22,6 +22,8 @@ Veja mais no meu perfil: [GitHub](https://github.com/alexistoigo)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb)
 
 
 ## Contato
