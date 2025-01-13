@@ -20,6 +20,7 @@ Veja mais no meu perfil: [GitHub](https://github.com/alexistoigo)
 ## Ferramentas e Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql)
