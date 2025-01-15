@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 ## Sobre mim
 Sou desenvolvedor de software com quatro anos de experiência, possuo graduação em Ciência da Computação e atualmente sou discente do mestrado em Computação Aplicada. 
-Minhas atuações são principalmente em backend, fullstack, engenharia de dados e mobile, também possuo experiência em diversas linguagens e frameworks. Gosto de resolver problemas e criar soluções inovadoras.
+Minhas atuações são principalmente em backend, fullstack, engenharia de dados e mobile, também possuo experiência em diversas linguagens e frameworks.
 
 ## Projetos Destacados
 Aqui estão alguns dos meus projetos em diversas linguagens:
